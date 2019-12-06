@@ -1,0 +1,43 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+body{
+    font-size: 10px;
+    font-family: 'EB Garamond', serif;
+}
+#my-section{
+    background-color: #fef6fb;
+    margin: 2rem;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.color
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card{
+    display: flex;
+
+}
+.block{
+    flex: 1;
+    margin-left: 5rem;
+}
+.my-text{
+    text-align: center;
+}
+.my-text h1{
+    font-size: 1.2rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-bottom: .7rem;
+}
+.my-text p{
+    font-size: .9rem;
+}
